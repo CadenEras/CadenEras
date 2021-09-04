@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @CadenEras ! I'm french so please don't mind my bad english ^^"
-- 👀 I’m interested in some programming languages such as C, C++, C#, Java, JvavaScript and Python !
-- 🌱 I’m currently learning all of them !
+- 👋 Hi, I’m @CadenEras ! I'm a French developer student !
+- 👀 I’m interested in programming languages such as C, C++, C#, Java, Python and most of all JavaScript !
+- 🌱 I’m currently working on a moderation bot for discord !
 - 📫 You can reach me via Discord : CadenEras#1919 !
 
 
