@@ -3,4 +3,6 @@
 - 🌱 I’m currently working on a moderation bot for discord !
 - 📫 You can reach me via Discord : Vinnie#1919 !
 
+Discord Server here [https://discord.gg/dESTnJ72Mp](url)
+
 
