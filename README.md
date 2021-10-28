@@ -6,7 +6,7 @@
 
 ### Connect with me :
 
-[<img align="left" alt="Caden's Cloud | Discord" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg" />([discord)
+[<img align="left" alt="Caden's Cloud | Discord" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg" />](discord)
 [<img align="left" alt="Melissa Gries | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](linkedin)
 
 <br />
