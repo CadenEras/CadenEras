@@ -29,7 +29,7 @@
 
 ---
 
-<img align="left" alt="CadenEras's GitHub Stats" src="https://github-readme-stats.cadeneras.vercel.app/api?username=CadenEras&show_icons=true&hide_border=true" />
+[![CadenEras's GitHub stats](https://github-readme-stats.vercel.app/api?username=CadenEras)](https://github.com/CadenEras/github-readme-stats)
 
 [twitter]: https://twitter.com/VinnieAsh93
 [discord]: https://discord.gg/dESTnJ72Mp
