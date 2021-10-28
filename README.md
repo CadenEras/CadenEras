@@ -29,7 +29,7 @@
 
 ---
 
-[![CadenEras's GitHub stats](https://github-readme-stats.vercel.app/api?username=CadenEras)](https://github.com/CadenEras/github-readme-stats)
+[![CadenEras's GitHub stats](https://github-readme-stats.vercel.app/api?username=CadenEras&show_icons=true&theme=radical)](https://github.com/CadenEras/github-readme-stats)
 
 [twitter]: https://twitter.com/VinnieAsh93
 [discord]: https://discord.gg/dESTnJ72Mp
