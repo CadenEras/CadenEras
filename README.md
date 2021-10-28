@@ -25,6 +25,9 @@
 
 <br />
 
+---
+
+
 [twitter]: https://twitter.com/VinnieAsh93
 [discord]: https://discord.gg/dESTnJ72Mp
 [linkedin]: https://www.linkedin.com/in/m%C3%A9lissa-gries-3a1564217/
