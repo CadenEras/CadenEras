@@ -8,7 +8,7 @@
 
 ### Connect with me :
 
-[<img align="left" alt="Caden's Cloud | Discord" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg" />](discord)
+[<img align="left" alt="Caden's Cloud | Discord" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg" href="https://discord.gg/nK4dUspswC" />](discord)
 [<img align="left" alt="Melissa Gries | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](linkedin)
 
 <br />
@@ -32,5 +32,5 @@
 [![CadenEras's GitHub stats](https://github-readme-stats.vercel.app/api?username=CadenEras&show_icons=true&theme=radical)](https://github.com/CadenEras/github-readme-stats)
 
 [twitter]: https://twitter.com/VinnieAsh93
-[discord]: https://discord.gg/dESTnJ72Mp
+[discord]: https://discord.gg/nK4dUspswC
 [linkedin]: https://www.linkedin.com/in/m%C3%A9lissa-gries-3a1564217/
