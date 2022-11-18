@@ -1,15 +1,15 @@
-### 👋 Hi, I’m @CadenEras ! I'm a French developer student !
+### 👋 Hi, I’m Melissa (@CadenEras) ! Welcome on my profil !
 
 ---
 
-- 👀 I’m interested in programming languages such as C, C++, C#, Java, Python and most of all JavaScript !
-- 🌱 I’m currently working on a moderation bot for discord !
-- 📫 You can reach me via Discord : CadenEras#2020 !
+- 👀 I'm a French student in Computer Science !
+- 🌱 I’m currently working on multiple projects in JavaScript and C language !
+- 📫 You can reach me via Discord : CadenEras#2020 and Twitter : @VinnieAsh93 !
 
 ### Connect with me :
 
-[<img align="left" alt="Caden's Cloud | Discord" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg" href="https://discord.gg/nK4dUspswC" />](discord)
-[<img align="left" alt="Melissa Gries | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](linkedin)
+![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)
+![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
 ![Patreon](https://img.shields.io/badge/Patreon-F96854?style=for-the-badge&logo=patreon&logoColor=white)
 <br />
 
@@ -30,15 +30,6 @@
 ![CMake](https://img.shields.io/badge/CMake-%23008FBA.svg?style=for-the-badge&logo=cmake&logoColor=white)
 ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-[<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />](webdevplaylist)
-[<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />](webdevplaylist)
-[<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />](cssplaylist)
-[<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />](jsplaylist)
-[<img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />](webdevplaylist)
-[<img align="left" alt="MongoDB" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />](webdevplaylist)
-[<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />](webdevplaylist)
-[<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />](webdevplaylist)
-[<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />](webdevplaylist)
 
 <br />
 
@@ -48,7 +39,3 @@
 [![CadenEras's GitHub stats](https://github-readme-stats.vercel.app/api?username=CadenEras&show_icons=true&theme=radical)](https://github.com/CadenEras/github-readme-stats)
 
 [![CadenEras's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=CadenEras&theme=radical)](https://github-readme-stats.vercel.app/api/top-langs/?username=CadenEras&theme=radical)
-
-[twitter]: https://twitter.com/VinnieAsh93
-[discord]: https://discord.gg/nK4dUspswC
-[linkedin]: https://www.linkedin.com/in/m%C3%A9lissa-gries-3a1564217/
