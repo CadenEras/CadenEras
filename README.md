@@ -31,6 +31,8 @@
 
 [![CadenEras's GitHub stats](https://github-readme-stats.vercel.app/api?username=CadenEras&show_icons=true&theme=radical)](https://github.com/CadenEras/github-readme-stats)
 
+[![CadenEras's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=CadenEras&theme=radical)](https://github-readme-stats.vercel.app/api/top-langs/?username=CadenEras&theme=radical)
+
 [twitter]: https://twitter.com/VinnieAsh93
 [discord]: https://discord.gg/nK4dUspswC
 [linkedin]: https://www.linkedin.com/in/m%C3%A9lissa-gries-3a1564217/
